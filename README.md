@@ -12,8 +12,6 @@ Alert generation and response
 🛠️ Tools and Technologies
 Wazuh: Open-source SIEM solution used for threat detection and monitoring.
 
-Kibana: Visualization tool to analyze logs and alerts.
-
 Ubuntu 24: Used as the monitored endpoint.
 
 Kali Linux: Hosting the Wazuh server.
@@ -52,7 +50,6 @@ Included screenshots in the PDF show:
 Wazuh dashboard
 
 Active agent status
-
 Generated alerts for specific events
 
 📚 Learnings
